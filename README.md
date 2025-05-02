@@ -1,16 +1,16 @@
-## Hi there 👋
+## Carson Holloway | Full-Stack Developer
 
-<!--
-**carsonalh/carsonalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer located in Brisbane, Australia.
 
-Here are some ideas to get you started:
+Check out my homepage 🌐 at [carsonholloway.com.au](http://carsonholloway.com.au) !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also see my profile on [LinkedIn](https://www.linkedin.com/in/carson-holloway-849b2b197) or [send me an email](mailto:carsonalh@gmail.com).
+
+Some of my favourite repos:
+
+* [Two player online websockets-based Hive 🐝 clone](https://github.com/carsonalh/hive)
+
+Fun facts:
+
+* 👨‍💻 I learned to code way back in 2017 (at age 15) from Al Sweigart's [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+* 🎓 I'm due to complete my studies at the University of Queensland in November 2025 (studying part time as of May 2025)
