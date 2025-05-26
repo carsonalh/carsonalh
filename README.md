@@ -9,6 +9,7 @@ Also see my profile on [LinkedIn](https://www.linkedin.com/in/carson-holloway-84
 Some of my favourite repos:
 
 * [Two player online websockets-based Hive 🐝 clone](https://github.com/carsonalh/hive)
+* [An WebGL-based image pixel editor I made in high school for fun](https://github.com/carsonalh/WebGL-Image-Editor)
 
 Fun facts:
 
